@@ -58,6 +58,7 @@ public class KAKAONewID {
                 }
             }
             //TODO: 2단계 X 제거가 잘 안이루어지는듯 - 03.24
+            //TODO: 내일은 꼭 마무리 한다 - 03.25
             str = str2.split(""); // 2단계를 거친 String 으로 다시 만든다
             if(str.length == 0){
                 //5단계 new_id가 빈 문자열이라면, new_id에 "a"를 대입합니다.
