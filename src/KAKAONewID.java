@@ -63,6 +63,7 @@ public class KAKAONewID {
             //TODO: 내일은 꼭 마무리 한다 - 03.27
             //TODO: 집 인테리어로 인해 쉬어가는 길 - 03.28
             //TODO: 집 인테리어로 인해 쉬어가는 길 - 03.29
+            //TODO: 집 인테리어로 인해 쉬어가는 길 - 03.30
             str = str2.split(""); // 2단계를 거친 String 으로 다시 만든다
             if(str.length == 0){
                 //5단계 new_id가 빈 문자열이라면, new_id에 "a"를 대입합니다.
